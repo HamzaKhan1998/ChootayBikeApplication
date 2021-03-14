@@ -1,0 +1,6 @@
+- SDK Version = 8
+- Spring Security Enabled
+- Install NodeJs and MailDev package to enable Mail Services and Mail Server on Localhost
+- Use Localhost:1080 to use Mail Servers or 0.0.0.0 on MacOS
+- Database: PostgresSQL, Port:5432
+- Create a Database by the name of Registration, rest of the tables are created when program is run
